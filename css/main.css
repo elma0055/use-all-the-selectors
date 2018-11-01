@@ -45,3 +45,7 @@ nav: ul {
 #types {
   color: #93a1a1;
 }
+
+.wrapper:first-child {
+  background-color: #b58900;
+}
